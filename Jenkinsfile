@@ -1,5 +1,5 @@
 pipeline{
-agent spark
+agent any
     stages{
     stage('Complie Stage')
     {
